@@ -30,10 +30,10 @@ I'm Dharmesh Poriya a Competitive Programmer and Web Developer. I enjoy competit
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Dharmesh-Poriya07&style=flat-square">
 </a>
-	<a href="https://github.com/Smit-05">
+	<a href="https://github.com/Dharmesh-Poriya07">
         <img height="20" src="https://img.shields.io/github/followers/Dharmesh-Poriya07?label=follow&logo=github" />
 	</a>
-	 <a href="https://github.com/Smit-05">
+	 <a href="https://github.com/Dharmesh-Poriya07">
         <img height="20" src="https://img.shields.io/github/stars/Dharmesh-Poriya07?label=stars&logo=github" />
 	</a>
 
