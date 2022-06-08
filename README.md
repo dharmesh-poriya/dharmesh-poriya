@@ -14,7 +14,7 @@ I'm Dharmesh Poriya a Competitive Programmer and Web Developer. I enjoy competit
 	<a href="https://twitter.com/D_Poriya_05">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="#">
+	<a href="https://dev.to/d_poriya">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
   <a href="http://dharmeshporiya.mywebcommunity.org/">
