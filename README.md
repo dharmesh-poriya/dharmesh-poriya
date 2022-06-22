@@ -135,10 +135,14 @@ I'm Dharmesh Poriya a Competitive Programmer and Web Developer. I enjoy competit
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dharmesh-Poriya07&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmesh-Poriya07&hide_border=true&theme=radical" />	
-<img width="100%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmesh-Poriya07&hide_border=true&layout=compact&langs_count=16&theme=radical"/>
+<!-- <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmesh-Poriya07&hide_border=true&layout=compact&langs_count=16&theme=radical" /> -->
+<!-- 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width="50%" src="https://github-profile-trophy.vercel.app/?username=Dharmesh-Poriya07" alt="Dharmesh-Poriya07" /></a> -->
   <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmesh-Poriya07" /> -->
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dharmesh-Poriya07&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dharmesh-Poriya07&theme=radical)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmesh-Poriya07&theme=radical) -->
 ---
 
 <p align="center">
