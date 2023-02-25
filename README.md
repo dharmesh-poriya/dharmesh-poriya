@@ -1,6 +1,7 @@
 ### Hi, I'm Dharmesh Poriya!!
 
-I'm Dharmesh Poriya a Competitive Programmer and Web Developer. I enjoy competitive programming and experimenting with new ideas. One of my favourite things to do is study DSA, compete in programming, and develop websites.
+<!-- I'm Dharmesh Poriya a Competitive Programmer and Web Developer. I enjoy competitive programming and experimenting with new ideas. One of my favourite things to do is study DSA, compete in programming, and develop websites. -->
+Im Dharmesh Poriya a pre-final year computer engineering student with a passion for problem-solving and web development. I have strong problem-solving skills and am proficient in web development technologies such as HTML, CSS, JavaScript, and various web frameworks like as React and little bit knowledge of Angular and .net framework. I am eager to learn and always seeking new challenges to create intuitive and user-friendly web applications. My ultimate goal is to make a meaningful contribution to the technology industry.
 <br><br>
 
 ## Contact 
