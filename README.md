@@ -19,7 +19,7 @@ Im Dharmesh Poriya a pre-final year computer engineering student with a passion 
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
 <!-- 	http://dharmeshporiya.mywebcommunity.org/ -->
-  <a href="https://dharmesh-poriya07.github.io/dharmesh-poriya/">
+  <a href="https://dharmesh-poriya07.github.io/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
   <a href="mailto:dharmeshkporiya@gmail.com">
