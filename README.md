@@ -44,15 +44,21 @@ Im Dharmesh Poriya a pre-final year computer engineering student with a passion 
 
 <hr>
 
-- 🔎 Looking for internship in Devlopement Area (i.e. Web Dev.)
-- 💻 Currently Learning Web Devlopement. 
+- 🔎 Looking for SDE role.
+- 💻 Currently doing SWE internship at Crest Data System. 
 - 📫 How can you contact me?: dharmeshkporiya@gmail.com.
 
 <hr>
 
 <!-- Activity Graph -->
 <!-- ![Dharmesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dharmesh-Poriya07&area=true&hide_border=true&theme=github&bg_color=22272E) -->
-[![Dharmesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dharmesh-Poriya07&area=true&hide_border=true&theme=react-dark)](https://github.com/Dharmesh-Poriya07/github-readme-activity-graph)
+[![Dharmesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharmesh-Poriya07&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!-- --- -->
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<br>
 
 
 <!-- ## 🤩 Open Source Badge's
@@ -152,11 +158,11 @@ Im Dharmesh Poriya a pre-final year computer engineering student with a passion 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dharmesh-Poriya07&theme=radical)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmesh-Poriya07&theme=radical) -->
 ---
-
+<!--
 <p align="center">
 
    ![snake gif](https://github.com/Dharmesh-Poriya07/Dharmesh-Poriya07/blob/output/github-contribution-grid-snake.gif)
 
 </p>
-
+-->
 
