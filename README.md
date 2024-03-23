@@ -30,13 +30,13 @@ Im Dharmesh Poriya a pre-final year computer engineering student with a passion 
   </a>
 <br><br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Dharmesh-Poriya07&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=dharmesh-poriya&style=flat-square">
 </a>
-	<a href="https://github.com/Dharmesh-Poriya07">
-        <img height="20" src="https://img.shields.io/github/followers/Dharmesh-Poriya07?label=follow&logo=github" />
+	<a href="https://github.com/dharmesh-poriya">
+        <img height="20" src="https://img.shields.io/github/followers/dharmesh-poriya?label=follow&logo=github" />
 	</a>
-	 <a href="https://github.com/Dharmesh-Poriya07">
-        <img height="20" src="https://img.shields.io/github/stars/Dharmesh-Poriya07?label=stars&logo=github" />
+	 <a href="https://github.com/dharmesh-poriya">
+        <img height="20" src="https://img.shields.io/github/stars/dharmesh-poriya?label=stars&logo=github" />
 	</a>
 
 </p>
@@ -51,8 +51,8 @@ Im Dharmesh Poriya a pre-final year computer engineering student with a passion 
 <hr>
 
 <!-- Activity Graph -->
-<!-- ![Dharmesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dharmesh-Poriya07&area=true&hide_border=true&theme=github&bg_color=22272E) -->
-[![Dharmesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharmesh-Poriya07&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- ![Dharmesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dharmesh-poriya&area=true&hide_border=true&theme=github&bg_color=22272E) -->
+[![Dharmesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharmesh-poriya&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- --- -->
@@ -147,21 +147,21 @@ Im Dharmesh Poriya a pre-final year computer engineering student with a passion 
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dharmesh-Poriya07&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmesh-Poriya07&hide_border=true&theme=radical" />	
-<!-- <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmesh-Poriya07&hide_border=true&layout=compact&langs_count=16&theme=radical" /> -->
-<!-- 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width="50%" src="https://github-profile-trophy.vercel.app/?username=Dharmesh-Poriya07" alt="Dharmesh-Poriya07" /></a> -->
-  <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmesh-Poriya07" /> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dharmesh-poriya&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmesh-poriya&hide_border=true&theme=radical" />	
+<!-- <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmesh-poriya&hide_border=true&layout=compact&langs_count=16&theme=radical" /> -->
+<!-- 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img width="50%" src="https://github-profile-trophy.vercel.app/?username=dharmesh-poriya" alt="dharmesh-poriya" /></a> -->
+  <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmesh-poriya" /> -->
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dharmesh-Poriya07&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dharmesh-Poriya07&theme=radical)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmesh-Poriya07&theme=radical) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharmesh-poriya&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharmesh-poriya&theme=radical)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmesh-poriya&theme=radical) -->
 ---
 <!--
 <p align="center">
 
-   ![snake gif](https://github.com/Dharmesh-Poriya07/Dharmesh-Poriya07/blob/output/github-contribution-grid-snake.gif)
+   ![snake gif](https://github.com/dharmesh-poriya/dharmesh-poriya/blob/output/github-contribution-grid-snake.gif)
 
 </p>
 -->
